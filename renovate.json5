@@ -8,7 +8,7 @@
   "labels": ["update"],
   "packageRules": [
   
-    /* Apply labels based on Merge Confidence
+    /* Apply labels based on Merge Confidence */
     {
       "matchConfidence": ["very high"],
       "labels": ["v-high"]
