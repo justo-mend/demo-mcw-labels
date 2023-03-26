@@ -11,19 +11,19 @@
     /* Apply labels based on Merge Confidence */
     {
       "matchConfidence": ["very high"],
-      "labels": ["v-high"]
+      "labels": ["confidence:v-high"]
     },
     {
       "matchConfidence": ["high"],
-      "labels": ["high"]
+      "labels": ["confidence:high"]
     },
     {
       "matchConfidence": ["low"],
-      "labels": ["low"]
+      "labels": ["confidence:low"]
     },
     {
       "matchConfidence": ["neutral"],
-      "labels": ["neutral"]
+      "labels": ["confidence:neutral"]
     },
     
     /* Group High and Very High confidence updates
